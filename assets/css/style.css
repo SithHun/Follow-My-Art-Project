@@ -1,0 +1,42 @@
+* {
+  font-family: "Noto Sans", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+label {
+  margin: 5px;
+  font-size: 35px;
+}
+input {
+  max-width: 250px;
+  font-size: 28px;
+}
+footer {
+  text-align: center;
+  padding: 15px;
+  margin-top: 15px;
+}
+button {
+  max-width: fit-content;
+  margin-top: 10px;
+}
+.color-0 {
+  background-color: paleturquoise;
+}
+.color-1 {
+  background-color: cadetblue;
+}
+.color-2 {
+  color: coral;
+}
+.color-3 {
+  background-color: floralwhite;
+}
+.color-4 {
+  color: coral;
+}
